@@ -1,0 +1,74 @@
+[
+	{
+		"day": "01/01",
+		"reason": "Año nuevo"
+	},
+	{
+		"day": "20/02",
+		"reason": "Carnaval"
+	},
+	{
+		"day": "21/02",
+		"reason": "Carnaval"
+	},
+	{
+		"day": "24/03",
+		"reason": "Día Nacional de la Memoria por la Verdad y la Justicia"
+	},
+	{
+		"day": "02/04",
+		"reason": "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+	},
+	{
+		"day": "06/04",
+		"reason": "Día Santo Festividad Cristiana"
+	},
+	{
+		"day": "07/04",
+		"reason": "Día Santo Festividad Cristiana"
+	},
+	{
+		"day": "01/05",
+		"reason": "Día del Trabajador"
+	},
+	{
+		"day": "25/05",
+		"reason": "Día de la Revolución de Mayo"
+	},
+	{
+		"day": "17/06",
+		"reason": "Paso a la Inmortalidad del Gral. Don Martín Miguel de Güemes"
+	},
+	{
+		"day": "20/06",
+		"reason": "Paso a la Inmortalidad del Gral. Manuel Belgrano"
+	},
+	{
+		"day": "09/07",
+		"reason": "Día de la Independencia"
+	},
+	{
+		"day": "09/07",
+		"reason": "Día de la Independencia"
+	},
+	{
+		"day": "17/08",
+		"reason": "Paso a la Inmortalidad del Gral. José de San Martín"
+	},
+	{
+		"day": "16/10",
+		"reason": "Día del Respeto a la Diversidad Cultural"
+	},
+	{
+		"day": "20/11",
+		"reason": "Día de la Soberanía Nacional"
+	},
+	{
+		"day": "8/12",
+		"reason": "Inmaculada Concepción de María"
+	},
+	{
+		"day": "25/12",
+		"reason": "Navidad"
+	}
+]
