@@ -13,7 +13,7 @@ function App() {
 			) : (
 				<section className='main-card'>
 					<p>Faltan</p>
-					<h1>{`${missingDays.diffDays} dias`}</h1>
+					<h1>{`${Math.abs(missingDays.diffDays)} dias`}</h1>
 					<p>para el proximo feriado.</p>
 
 					<Day day={missingDays.day.day} />
