@@ -6,6 +6,16 @@
   color: #242424;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
 p,
 h1 {
   margin: 10px;
@@ -33,4 +43,11 @@ p {
 a {
   text-decoration: none;
   color: #242424;
+}
+
+
+@media (max-width:600px) {
+ body{
+  padding: 0 10px;
+ } 
 }
